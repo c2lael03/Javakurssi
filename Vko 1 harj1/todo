@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>My Todo List</title>
+    </head>
+    </html>      
+    <body>
+        <h3>Remember the do:</h3>
+        <ul>
+            <li>Clean house</li>
+            <li>Study</li>
+            <li>Go to movies</li>
+        </ul>
+        <br />
+        <br />
+        <hr />
+        <h3>Kuukaudet</h3>
+        <ol>
+            <li>Tammikuu</li>
+            <li>Helmikuu</li>
+            <li>Maaliskuu</li>
+            <li>Huhtikuu</li>
+            <li>Toukokuu</li>
+            <li>Kesäkuu</li>
+            <li>Heinäkuu</li>
+            <li>Elokuu</li>
+            <li>Syyskuu</li>
+            <li>Lokakuu</li>
+            <li>Marraskuu</li>
+            <li>Joulukuu</li>                
+        </ol>
+        <br />
+        <br />
+        <hr />
+        <h3>Värejä</h3>
+        <ul>
+            <li>Sininen</li>
+                <ul>
+                    <li>Tumman sininen</li>
+                    <li>Taivaan sininen</li>
+                </ul>
+            <li>Punainen
+                <ul>
+                    <li>Viininpunainen</li>
+                    <li>Joulunpunainen</li>
+                    <li>Vaaleanpunainen</li>
+                </ul>
+        </ul>
+
+    </body>
+</html>
