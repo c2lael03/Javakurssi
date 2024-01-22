@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My page</title>
+    </head>
+    <body>
+        <div id="container">
+        <h1>My homepage</h1>
+        <img src="img/elina.jpg" alt="My picture"/>
+        <h2>About me<h2>
+        <p>Nimeni on Elina Lappalainen ja olen insinööriopiskelija OAMK:ssa</p>
+        <h2>Pari hyödyllistä linkkiä<h2>
+        <ul>
+            <li><a href="http://www.google.com">Google</a></li>
+            <li><a href="http://www.retkikartta.com">Retkikartta</a></li>
+        </ul>
+        <p>Lataa tästä dokumentti klikkaamalla alla olevaa hyberlinkkiä</p>
+            <a href="downloads/test.pdf"target="blank">Testi dokumentti</a></li> 
+    </div>
+    </body>
+    </html>
+ 
+
+    <body>
+        <p>This is a paragraph.</p>
+        <hr />
+        <!-- Tämä on kommentti-->
+        <div> <a href="https://www.oamk.fi">Oamk</a></div>
+    </body>
+    <p><a href="https://en.wikipedia.org/wiki/HTML">HTML</a> is a markup language developed by W3C and WhatWG</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum fugiat, pariatur explicabo blanditiis quos velit magni voluptas! Repellat, ut! Magni error facilis eaque quo veniam distinctio labore dolorum nam doloribus!</p>
+</body>
+</html>
